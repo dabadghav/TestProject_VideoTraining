@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="contactUs" key="{0EFE2F3E-FAEA-4091-BC58-966F9A31611D}" path="contactUs.tcKDTest" />
+		<child name="login2" key="{E969DBE3-30CA-4A2F-8ECF-104743C4CC70}" path="login2.tcKDTest" />
+		<child name="logout" key="{96BB978D-9DFF-4259-868E-F7318481EABD}" path="logout.tcKDTest" />
+		<child name="contactUsInvalidEmail" key="{D3FC8D07-A4C8-41E8-81B9-D879CEA57D5E}" path="contactUsInvalidEmail.tcKDTest" />
+		<child name="contactUsInvalidEnquiry" key="{4AA5F620-B8C6-4AB6-B786-E50A3C4CB6C3}" path="contactUsInvalidEnquiry.tcKDTest" />
+		<child name="__AddBillingAddress" key="{21B66BAE-8857-443C-9F7C-9FB5FF6E8E82}" path="__AddBillingAddress.tcKDTest" />
+		<child name="AddBillingAddress" key="{2D708A1C-A48F-431A-98B3-71E2F5E78519}" path="AddBillingAddress.tcKDTest" />
+		<child name="parameterisedLogin" key="{DB5DD536-9A48-45F4-A808-4A071A96D904}" path="parameterisedLogin.tcKDTest" />
+		<child name="TestCallToParamTest" key="{668C57A6-C039-46FC-A48F-64B1DFBE3DBA}" path="TestCallToParamTest.tcKDTest" />
+		<child name="LoginAgain" key="{3B082C36-83B8-4CA6-86DE-DBFE109739DC}" path="LoginAgain.tcKDTest" />
+	</children>
+</Root>

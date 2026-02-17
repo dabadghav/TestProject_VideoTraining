@@ -1,0 +1,24 @@
+# Reference: https://support.smartbear.com/testcomplete/docs/working-with/integration/scc/files.html
+# Logs
+Log/
+
+# TestComplete temporary and generated files
+*.tcCfgExtender
+*.tcLS
+*.tcLogs
+
+# TestComplete backup files
+*.bak
+
+# Type library files
+*.tlb
+
+# Project item files located outside the project suite folder
+# (Assuming these files are not in the same directory structure as the project suite)
+
+# Miscellaneous
+*.tmp
+*.temp
+*.cache
+Thumbs.db
+.DS_Store

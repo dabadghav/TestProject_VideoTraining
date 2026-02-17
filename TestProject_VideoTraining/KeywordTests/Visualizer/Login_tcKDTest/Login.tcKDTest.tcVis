@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{0E6C74D2-4E3A-4C05-9C6A-CEB19FAF9E1A}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="46062.2530555556" objectName="Aliases.browser.pageCentralHome.textnodeSkipToMainContent" objectLeft="6" objectTop="111" objectRight="1914" objectBottom="1122" clickPointX="-1" clickPointY="-1" imageFileName="tcvi1830652687283800.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="46062.2501041667" objectName="Aliases.browser.pageShopLogin.sectionContent.textboxUsernameoremail" objectLeft="1159" objectTop="757" objectRight="1735" objectBottom="834" clickPointX="1294" clickPointY="783" imageFileName="tcvi1830398828243520.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="6" kind="0" dateTime="46062.2502777778" objectName="Aliases.browser.pageBearstoreTestsiteSmartbearCo.textnodeUsd" objectLeft="6" objectTop="180" objectRight="1891" objectBottom="2995" clickPointX="-1" clickPointY="-1" imageFileName="tcvi1830414000243521.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="46062.2507523148" objectName="Aliases.browser.pageBearstoreTestsiteSmartbearCo.header.navUsd.linkSheetald" objectLeft="1597" objectTop="180" objectRight="1781" objectBottom="258" clickPointX="-1" clickPointY="-1" imageFileName="tcvi1830454125243522.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>
