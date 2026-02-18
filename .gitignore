@@ -1,10 +1,14 @@
 # Reference: https://support.smartbear.com/testcomplete/docs/working-with/integration/scc/files.html
 # Logs
 Log/
+TestComplete-ProjectHub/Log
 
 # TestComplete temporary and generated files
-*.tcCfgExtender
 *.tcLS
+*.tcCfgExtender
+*visImage*
+*/tcvi*
+*.tcVis
 *.tcLogs
 
 # TestComplete backup files
