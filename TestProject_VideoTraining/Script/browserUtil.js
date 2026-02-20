@@ -1,4 +1,9 @@
 ﻿//JScript
+
+function TestRunChrome() {
+  runIncognitoMode("chrome");
+}
+
 function runIncognitoMode(browserName){
   //var browserName = "firefox" //iexplore,edge,chrome,firefox
   if (Sys.WaitBrowser(browserName).Exists){
@@ -11,11 +16,6 @@ function runIncognitoMode(browserName){
     Browsers.Item(btEdge).RunOptions = "-inprivate"
     Delay(3000)
     Browsers.Item(btEdge).Run();
-  }
-  else if (browserName=="iexplore"){
-    Browsers.Item(btIExplorer).RunOptions = "-private"
-    Delay(3000)
-    Browsers.Item(btIExplorer).Run();
   }
   else if (browserName=="chrome"){
     Browsers.Item(btChrome).RunOptions = "-incognito"
